@@ -1,3 +1,3 @@
 # HelloWorld
-by Devina 
+Hello this my first repository
 
